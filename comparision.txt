@@ -8,8 +8,10 @@ This is an example to show different parts of git repository
 
 ##purpose
 
+The main purpose of this project is to explain how to use git and githuib
 
 ##Deploymenit
 
+Deployment is done on local system
 
 ##How to contribute 
