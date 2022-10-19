@@ -1,4 +1,6 @@
 This is sample text file
 modifying the file
 editing the file using feature branch
-Editing the file to work on conflict feature  
+Editing the file to work on conflict feature
+editing the file using feature branch  
+modifying the file to work on conflict feature
