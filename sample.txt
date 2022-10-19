@@ -4,3 +4,6 @@ editing the file using feature branch
 Editing the file to work on conflict feature
 editing the file using feature branch  
 modifying the file to work on conflict feature
+
+modifying the file to work on stashing concept
+commiting the file - stash concept 
